@@ -1,7 +1,7 @@
 {
   "name": "NeilYQ",
   "short_name": "Neil's Test",
-  "start_url": "./",
+  "start_url": "https://neilyq.github.io/Aircraft-war/demo.html",
   "display": "fullscreen",
   "icons": [
     {
