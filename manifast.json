@@ -1,0 +1,15 @@
+{
+  "name": "NeilYQ",
+  "short_name": "Neil's Test",
+  "start_url": "./",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "url": "https://avatars0.githubusercontent.com/u/26061413?s=460&v=4",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ],
+  "background_color": "#996633",
+  "theme_color": "#6699"
+}
